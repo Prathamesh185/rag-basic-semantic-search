@@ -1,0 +1,8 @@
+gradio
+python-dotenv
+google-generativeai
+sentence-transformers
+datasets
+pdfplumber
+torch
+transformers
