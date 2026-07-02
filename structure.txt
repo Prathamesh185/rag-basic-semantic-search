@@ -1,0 +1,29 @@
+rag_project_week1/
+├── .gradio
+│   └── flagged
+│       └── dataset1.csv
+├── data
+│   ├── chunks
+│   ├── cleaned
+│   ├── scraped
+│   │   └── hindi
+│   └── urls
+│       └── hindi_urls.txt
+├── scripts
+│   └── scraping
+│       ├── data
+│       │   └── scraped
+│       │       └── hindi
+│       ├── extract_urls.py
+│       └── scrape_vikaspedia.py
+├── .env
+├── .gitignore
+├── all_code.txt
+├── app.py
+├── config.py
+├── data.py
+├── llm.py
+├── pdf_loader.py
+├── requirements.txt
+├── retriever.py
+└── structure.txt
